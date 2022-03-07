@@ -1,0 +1,1 @@
+# This repository contains notebooks for paper "Physical discovery in representation learning via conditioning on prior knowledge: applications for ferroelectric domain dynamics" by Yongtao Liu, Bryan D Huey, Maxim A. Ziatdinov, and Sergei V. Kalinin, 
